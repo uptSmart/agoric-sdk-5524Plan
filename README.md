@@ -9,7 +9,7 @@ Our plan is as follows:
 | NO | Content  | Time Estimation |
 |-----|------|------|
 | 1 | Establish a test environment |3 days |
-| 2 | Provide governance authority to a group of 3 or more individuals |3 days|
+| 2 | Provide governance authority to a group of 3 or more individuals |4 days|
 | 3 | Control an Interchain Account on the Cosmos Hub |2 days|
 | 4 | Allow contract governance to decide on delegation/re-delegation/unbonding, claim staking rewards, and vote on Cosmos Hub governance actions|6 days|
 | 5 | Make the choice of external chain configurable by governance|2 days|
